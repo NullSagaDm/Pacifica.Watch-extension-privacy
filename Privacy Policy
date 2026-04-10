@@ -1,0 +1,99 @@
+Privacy Policy
+
+Last updated: April 10, 2026
+
+This Privacy Policy describes how the Pacifica Watch browser extension ("the Extension") collects, uses, and handles user data.
+
+1. Overview
+
+The Extension is designed with a single purpose: to monitor selected wallets and provide notifications about position and price-related events. It does not collect or use data beyond what is necessary to deliver this functionality.
+
+---
+
+2. Data We Collect
+
+The Extension may collect and process the following types of data:
+
+a. Personally Identifiable Information
+
+* Email address (for account identification and authentication)
+
+b. Authentication Information
+
+* Access tokens or session data required to maintain user authentication
+
+c. Financial and Trading Information
+
+* Wallet addresses added by the user
+* Position data (e.g., open/closed positions, size changes)
+* Profit and loss (PnL) information
+* Market-related data and alerts associated with tracked wallets
+
+This data is either provided directly by the user or retrieved from the Extension’s backend service.
+
+---
+
+3. How We Use Data
+
+Collected data is used strictly for the following purposes:
+
+* Monitoring selected wallets
+* Displaying position and market-related information
+* Triggering user-defined alerts and notifications
+* Maintaining user sessions and authentication
+* Providing optional notification integrations (e.g., Telegram)
+
+The Extension does not use user data for advertising or profiling.
+
+---
+
+4. Data Sharing
+
+* The Extension does not sell, rent, or trade user data.
+* Data is only transmitted to the Extension’s backend service to enable its core functionality.
+* No data is shared with third parties for purposes unrelated to the Extension’s functionality.
+
+---
+
+5. Data Storage
+
+* User preferences (such as watched wallets, alert settings, and notification configurations) may be stored locally using Chrome storage.
+* Authentication data may be stored securely to maintain login sessions.
+* No unnecessary personal data is stored.
+
+---
+
+6. Remote Code
+
+The Extension does not download or execute remote code. All executable logic is packaged within the Extension. External requests are limited to retrieving data required for functionality.
+
+---
+
+7. Security
+
+We take reasonable measures to protect user data from unauthorized access, alteration, or disclosure. However, no system can be guaranteed to be completely secure.
+
+---
+
+8. User Control
+
+Users can:
+
+* Add or remove watched wallets at any time
+* Modify or delete alert configurations
+* Log out to remove authentication data
+* Stop using the Extension at any time
+
+---
+
+9. Changes to This Policy
+
+This Privacy Policy may be updated from time to time. Updates will be reflected by revising the "Last updated" date.
+
+---
+
+10. Contact
+
+If you have any questions about this Privacy Policy, you can contact:
+
+Gmail: nullsaga.dm@gmail.com
